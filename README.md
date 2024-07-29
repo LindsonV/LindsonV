@@ -1,4 +1,4 @@
-Sou Lindson, programdor Fornt-end.
+Sou Lindson, programdor Front-end.
 
 Atualmente crio projetos com:
 
