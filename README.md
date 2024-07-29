@@ -1,6 +1,6 @@
-Sou Lindson, um profissional de 32 anos com experiência sólida na indústria de materiais e equipamentos cirúrgicos, que direcionou a carreira para o desenvolvimento de sistemas. Atualmente, também estou cursando graduação em ASD. Estou pronto para enfrentar desafios e colaborar em projetos. Sigo como freelancer, mas busco meu espaço em uma equipe para somar e continuar aprendendo.
+Sou Lindson, programdor Fornt-end.
 
-Hoje estou aprendendo e criando projetos com:
+Atualmente crio projetos com:
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
